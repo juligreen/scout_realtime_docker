@@ -1,4 +1,4 @@
-FROM 2.3.8-alpine3.7
+FROM ruby:2.3.8-alpine3.7
 
 RUN  gem install scout_realtime
 
